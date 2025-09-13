@@ -66,5 +66,3 @@ This backend system allows you to create, read, update, and manage todos using E
 This project is licensed under the MIT License.
 
 ---
-
-Do you want me to also add a **short section describing the todo fields** (like id, title, completed, priority) so users know what data structure your API expects?
